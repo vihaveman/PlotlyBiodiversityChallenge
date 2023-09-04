@@ -3,11 +3,11 @@ In this exercise, I used the Belly Button Biodiversity dataset  to create a dash
 This application is hosted on GitHub pages at: https://vihaveman.github.io/PlotlyBiodiversityChallenge/
 
 ## Languages and Tools Used 
-VS Code
-JavaScript 
-HTML/CSS
-Json 
-Ploty
+VS Code,
+JavaScript, 
+HTML/CSS,
+Json, 
+Ploty,
 Python
 
 
